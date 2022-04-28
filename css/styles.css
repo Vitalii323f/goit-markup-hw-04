@@ -334,7 +334,6 @@ body {
 /*------Создаем социальные ссылки------*/
 .team-social-list {
   display: flex;
-  justify-content: center;
 }
 .team-social-link {
   width: 44px;
